@@ -112,5 +112,5 @@
 
 另外，您也可以关注我的微信公众号：“LifeCoder”，会不定期更新留学、游记、烹饪和健身的相关文章，后续也会更新一些非常棒的算法工程师学习材料。
 
-![](http://my-blog-to-use.oss-cn-beijing.aliyuncs.com/18-8-17/29079091.jpg)
+![](https://github.com/SeanCsc/Algorithm-Engineer/blob/master/pictures/qrcode_for_gh_6e5f88ff8319_258.jpg)
 
