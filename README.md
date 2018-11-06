@@ -8,37 +8,31 @@
 | :--------: | :----------: | :-----------: | :---------: | :---------: | :---------:| :---------: |
 | [算法](#coffee-Java)  |  [开发](#computer-开发技能)|[业务感悟](#musical_note-业务感悟) | [随笔](#iphone-操作系统)| [面试题目](#punch-面试必备)| [其他](#art-其他)| [说明](#envelope-该开源文档一些说明)|
 
-## :coffee: Java
--   ### Java/J2EE 基础
-    - [Java 基础知识回顾](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/Java基础知识.md)
-    - [J2EE 基础知识回顾](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/J2EE基础知识.md)
-    - [static、final、this、super关键字总结](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/final、static、this、super.md) 
-    - [static 关键字详解](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/static.md)   
+## :coffee: 算法
+-   ### 基础数据结构和算法
+    - [数据结构和算法思想题目](https://github.com/SeanCsc/Data-Structure-and-Algorithm/blob/master/README.md)
     
--   ### Java 集合框架
-    - [这几道Java集合框架面试题几乎必问](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/这几道Java集合框架面试题几乎必问.md)
-    - [Java 集合框架常见面试题总结](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/Java集合框架常见面试题总结.md)
-    - [ArrayList 源码学习](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/ArrayList.md) 
-    - [【面试必备】透过源码角度一步一步带你分析 ArrayList 扩容机制](https://github.com/Snailclimb/JavaGuide/blob/master/Java相关/ArrayList-Grow.md)    
-    - [LinkedList 源码学习](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/LinkedList.md)   
-    - [HashMap(JDK1.8)源码学习](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/HashMap.md)  
+-   ### 机器学习
+    - [Umich EECS545](https://github.com/SeanCsc/umich-eecs545-lectures/blob/master/README.md)
+    - [作业list](https://github.com/SeanCsc/EECS545-CEE501/blob/master/README.md)
+    - [共享单车需求量预测](https://github.com/SeanCsc/shared-bike-demand-prediction/blob/master/README.md) 
+    - [Kaggle-house prediction](https://github.com/SeanCsc/House-prediction/blob/master/README.md)    
+    - [Datahack@Yale2018](https://github.com/SeanCsc/DataHack-Yale-2018)   
    
--  ### Java 多线程
-   - [多线程系列文章](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/多线程系列.md)
-   - [并发编程面试必备：synchronized 关键字使用、底层原理、JDK1.6 之后的底层优化以及 和ReenTrantLock 的对比](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/synchronized.md)
-   - [并发编程面试必备：乐观锁与悲观锁](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/面试必备之乐观锁与悲观锁.md)
-   - [并发编程面试必备：JUC 中的 Atomic 原子类总结](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/Multithread/Atomic.md)
-   - [并发编程面试必备：AQS 原理以及 AQS 同步组件总结](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/Multithread/AQS.md)
-   - [BATJ都爱问的多线程面试题](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/Multithread/BATJ都爱问的多线程面试题.md)
-- ### Java IO 与 NIO
-  - [Java IO 与 NIO系列文章](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/Java%20IO与NIO.md)
+-  ### 计算机视觉
+   - [传统计算机视觉方法实现](https://github.com/SeanCsc/Computer-vision)
+   - [CNN实现](https://github.com/SeanCsc/Computer-vision/tree/master/CNN%20implementation)
+   - [Kaggle|猫狗分类](https://github.com/SeanCsc/Kaggle-Cats-vs-Dogs)
+   - [Kaggle｜树叶分类](https://github.com/SeanCsc/Leaf_classification)
+   - [CNN | 3D景深预测]()
 
--  ### Java虚拟机（jvm）
-   - [可能是把Java内存区域讲的最清楚的一篇文章](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/可能是把Java内存区域讲的最清楚的一篇文章.md)
-   - [搞定JVM垃圾回收就是这么简单](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/搞定JVM垃圾回收就是这么简单.md)
-   - [Java虚拟机（jvm）学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/Java虚拟机（jvm）.md)
-- ### 设计模式
-   - [设计模式系列文章](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/设计模式.md)
+
+-  ### NLP (Following CS224n)
+   - [Notes](https://www.jianshu.com/writer#/notebooks/30578473/notes/35579994)
+   - [Near Duplicate Documents]()
+
+- ### Data Mining
+   - [Frequent Itemsets]()
 
 ## :open_file_folder: 数据结构与算法
    
