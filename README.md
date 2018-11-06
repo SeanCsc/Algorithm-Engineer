@@ -1,18 +1,22 @@
 # Algorithm-Engineer
 
-该文档主要是汇总自己的点过的技能点和相关学习文档，笔记链接，会进行不定期的更新回顾。
-该文档涉及的主要内容包括： 算法方面、开发方面、业务理解、随笔等等链接。
+## 介绍以及为什么要做这个开源文档
+该文档主要是在做算法工程师前的一些学习笔记和感悟，入门算法不难，但是要做一个有视野的算法工程师需要很多的知识储备，在实习的过程中也深感需要学的东西太多，算法的价值难以被挖掘，所以希望借助这个文档一步一步摸索，希望在浪潮褪去仍然能保有竞争力。这一个repo也用来记录日常的学习计划和进展。一方面便于自己回顾自己的技能点和薄弱部分，另一方面也希望能和小伙伴们一起交流，不合理的地方也欢迎提issue。该文档以自己的感悟笔记为主，偶尔会引用他人的优秀文章。
+
+该文档涉及的主要内容包括： 算法方面、开发方面、业务理解、随笔和遇到过的相关面试题等等（笔记等内容主要在jianshu.com,代码相关主要在github)。
 
 
 | Ⅰ  | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ |
 | :--------: | :----------: | :-----------: | :---------: | :---------: | :---------:| :---------: |
-| [算法](#coffee-Java)  |  [开发](#computer-开发技能)|[业务感悟](#musical_note-业务感悟) | [随笔](#iphone-操作系统)| [面试题目](#punch-面试必备)| [其他](#art-其他)| [说明](#envelope-该开源文档一些说明)|
+| [算法](#coffee-Java)  |  [开发](#computer-开发技能)|[业务感悟](#musical_note-业务感悟) | [随笔](#iphone-随笔)| [面试题目](#punch-面试必备)| [其他](#art-其他)| [说明](#envelope-该开源文档一些说明)|
 
 ## :coffee: 算法
 作为算法工程师，起码需要了解基础的算法思想，在此基础上去跟踪前沿，实现算法落地到业务上。
 
 -   ### 基础数据结构和算法
     - [数据结构和算法思想题目](https://github.com/SeanCsc/Data-Structure-and-Algorithm/blob/master/README.md)
+    
+-   ### 矩阵和概率
     
 -   ### 机器学习
     - [Umich EECS545](https://github.com/SeanCsc/umich-eecs545-lectures/blob/master/README.md)
@@ -31,75 +35,52 @@
 
 -  ### NLP (Following CS224n)
    - [Notes](https://www.jianshu.com/writer#/notebooks/30578473/notes/35579994)
+   - [Codes]()   
    - [Near Duplicate Documents]()
 
 - ### Data Mining
    - [Frequent Itemsets]()
 
 ## :computer: 开发
+随着算法门槛的不断降低和相关课程的增多，开发技能是区分一个算法工程师能力重要指标，相比于算法，开发更需要对计算机的基础知识有一个较为全面的理解。所以希望能在快毕业和刚毕业阶段打扎实开发的基础能力，这对算法的开发和落地至关重要。我目前所理解的开发能力主要包括系统架构，相关工具框架，网络通信，程序语言的代码规范和优化以及web的前后端等。我目前开发能力也比较薄弱，所以这一部分会一边学习一边更新。
+-  ### 系统架构（to learn)
+   - [操作系统(底层原理）]()
+   - [操作系统(Linux)]()
+   - [分布式系统]()
    
--  ### 数据结构
-   - [数据结构知识学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/数据结构与算法/数据结构.md)
-
-
--  ### 算法
-   - [算法学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/数据结构与算法/算法.md)
+-  ### 并行机器学习框架的原理和使用
+   - [Tensorflow]()
+   - [Keras]()
    
-   - [常见安全算法（MD5、SHA1、Base64等等）总结](https://github.com/Snailclimb/Java_Guide/blob/master/数据结构与算法/常见安全算法（MD5、SHA1、Base64等等）总结.md)
-   - [算法总结——几道常见的子符串算法题 ](https://github.com/Snailclimb/Java_Guide/blob/master/数据结构与算法/搞定BAT面试——几道常见的子符串算法题.md)
-   - [算法总结——几道常见的链表算法题 ](https://github.com/Snailclimb/Java_Guide/blob/master/数据结构与算法/Leetcode-LinkList1.md)   
-
-## :computer: 计算机网络与数据通信
-- ### 网络相关
-   - [计算机网络常见面试题](https://github.com/Snailclimb/Java_Guide/blob/master/计算机网络与数据通信/计算机网络.md)
-   - [计算机网络基础知识总结](https://github.com/Snailclimb/Java_Guide/blob/master/计算机网络与数据通信/干货：计算机网络知识总结.md)
-  
-- ### 数据通信(RESTful、RPC、消息队列)
-  - [数据通信(RESTful、RPC、消息队列)相关知识点总结](https://github.com/Snailclimb/Java-Guide/blob/master/计算机网络与数据通信/数据通信(RESTful、RPC、消息队列).md)
-  
-
-## :iphone: 操作系统
-
-- ### Linux相关
-  - [后端程序员必备的 Linux 基础知识](https://github.com/Snailclimb/Java-Guide/blob/master/操作系统/后端程序员必备的Linux基础知识.md)  
-
-## :pencil2: 主流框架/软件
-
-- ### Spring
-  - [Spring 学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/主流框架/Spring学习与面试.md)
-  - [Spring中bean的作用域与生命周期](https://github.com/Snailclimb/Java_Guide/blob/master/主流框架/SpringBean.md)
-  - [SpringMVC 工作原理详解](https://github.com/Snailclimb/JavaGuide/blob/master/主流框架/SpringMVC%20%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3.md)
-- ### ZooKeeper
-  - [可能是把 ZooKeeper 概念讲的最清楚的一篇文章](https://github.com/Snailclimb/Java_Guide/blob/master/主流框架/ZooKeeper.md)
-  
-## :floppy_disk: 数据存储
-- ### MySQL
-  - [MySQL 学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/数据存储/MySQL.md)
-  - [【思维导图-索引篇】搞定数据库索引就是这么简单](https://github.com/Snailclimb/Java_Guide/blob/master/数据存储/MySQL%20Index.md)
-- ### Redis
-  - [Redis 总结](https://github.com/Snailclimb/Java_Guide/blob/master/数据存储/Redis/Redis.md)
-  - [Redlock分布式锁](https://github.com/Snailclimb/Java_Guide/blob/master/数据存储/Redis/Redlock分布式锁.md)
-  - [如何做可靠的分布式锁，Redlock真的可行么](https://github.com/Snailclimb/Java_Guide/blob/master/数据存储/Redis/如何做可靠的分布式锁，Redlock真的可行么.md)\
-
-## :punch: 架构
-- ### 分布式相关
-    - [分布式学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/架构/分布式.md)
-
-## :musical_note: 备战春招/秋招系列
-
-- ### 面试前的准备
-
-    - [程序员的简历就该这样写](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/程序员的简历之道.md)
-    - [手把手教你用Markdown写一份高质量的简历](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/手把手教你用Markdown写一份高质量的简历.md)
-    - [初出茅庐的程序员该如何准备面试？](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/interviewPrepare.md)
-
-- ### 最最最常见的Java面试题总结
-   这里会分享一些出现频率极其极其高的面试题，初定周更一篇，什么时候更完什么时候停止。
+-  ### 数据工具
+   - [SQL]()
+   - [Hadoop]()
+   - [Spark]()
+   - [Hive]()
    
-    - [第一周（2018-8-7）](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/最最最常见的Java面试题总结/第一周（2018-8-7）.md) (为什么 Java 中只有值传递、==与equals、 hashCode与equals)
-    - [第二周（2018-8-13）](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/最最最常见的Java面试题总结/第二周(2018-8-13).md)(String和StringBuffer、StringBuilder的区别是什么？String为什么是不可变的？、什么是反射机制？反射机制的应用场景有哪些？......)
-    - [第三周（2018-08-22）](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/这几道Java集合框架面试题几乎必问.md) （Arraylist 与 LinkedList 异同、ArrayList 与 Vector 区别、HashMap的底层实现、HashMap 和 Hashtable 的区别、HashMap 的长度为什么是2的幂次方、HashSet 和 HashMap 区别、ConcurrentHashMap 和 Hashtable 的区别、ConcurrentHashMap线程安全的具体实现方式/底层具体实现、集合框架底层数据结构总结）
-    - [第四周(2018-8-30).md](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/最最最常见的Java面试题总结/第四周(2018-8-30).md) （主要内容是几道面试常问的多线程基础题。）
+-  ### 语言规范和优化
+   - [Python]()
+   - [Java]()
+   
+-  ### 代码管理
+   - [Github]()
+   - [Maven]()
+   
+-  ### 网络通信（to learn)
+   - [网络通信]()
+   
+-  ### web前后端（to learn)
+
+
+## :musical_note: 业务感悟
+
+- ### 滴滴
+  - [待整理]()
+
+
+## :iphone: 随笔
+
+## :punch: 面试
 
     
 ## :art: 其他  
@@ -107,46 +88,26 @@
 - ### 个人书单推荐
     - [个人阅读书籍清单](https://github.com/Snailclimb/Java-Guide/blob/master/其他/个人阅读书籍清单.md)  
 
-- ### 技术方向选择
-    - [选择技术方向都要考虑哪些因素](https://github.com/Snailclimb/Java-Guide/blob/master/其他/选择技术方向都要考虑哪些因素.md) 
-    
-- ### 2018 年秋招简单回顾
-    - [结束了我短暂的秋招，说点自己的感受](https://github.com/Snailclimb/JavaGuide/blob/master/%E5%85%B6%E4%BB%96/2018%20%E7%A7%8B%E6%8B%9B.md) 
- 
-
 ***
 
 > # :envelope: 该开源文档一些说明
 
-## 介绍
-该文档主要是笔主在学习Java的过程中的一些学习笔记，但是为了能够涉及到大部分后端学习所需的技术知识点我也会偶尔引用一些别人的优秀文章的链接。
-该文档涉及的主要内容包括： Java、 数据结构与算法、计算机网络与数据通信、 操作系统、主流框架、数据存储、架构、面试必备知识点等等。相信不论你是前端还是后端都能在这份文档中收获到东西。
 ## 关于转载
 
-**如果需要引用到本仓库的一些东西，必须注明转载地址！！！毕竟大多都是手敲的，或者引用的是我的原创文章，希望大家尊重一下作者的劳动**:smiley::smiley::smiley:！
-
-## 如何对该开源文档进行贡献
-
-1. 笔记内容大多是手敲，所以难免会有笔误。
-2. 你对其他知识点的补充。
-
-## 为什么要做这个开源文档？
-
-在我们学习Java的时候，很多人会面临我不知道继续学什么或者面试会问什么的尴尬情况（我本人之前就很迷茫:smile:）。所以，我决定通过这个开源平台来帮助一些有需要的人，通过下面的内容，你会掌握系统的Java学习以及面试的相关知识。本来是想通过Gitbook的形式来制作的，后来想了想觉得可能有点大题小做 :grin: 。另外，我自己一个人的力量毕竟有限，希望各位有想法的朋友可以提issue。
+**如果需要引用到本仓库的一些东西，希望可以注明转载地址**
+:smiley::smiley::smiley:！
 
 ## 最后
 
-本人会利用业余时间一直更新下去，目前还有很多地方不完善，一些知识点我会原创总结，还有一些知识点如果说网上有比较好的文章了，我会把这些文章加入进去。您也可以关注我的微信公众号：“Java面试通关手册”，我会在这里分享一些自己的原创文章。 另外该文档格式参考：[Github Markdown格式](https://guides.github.com/features/mastering-markdown/)，表情素材来自：[EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)。
+本人会利用业余时间一直更新下去，目前还有很多地方不完善，也有很多东西需要去学习总结。趁着明年毕业前，希望能向开篇提到的最佳实践一样，形成一个正向反馈，减少低效。
 
-## 推荐一下阿里云服务
+另外，您也可以关注我的微信公众号：“LifeCoder”，会不定期更新留学、游记、烹饪和健身的相关文章。
 
-> 阿里云技术有保障，在云服务技术上远远领先于国内其他云服务提供商。大家或者公司如果需要用到云服务器的话，推荐阿里云服务器，下面是阿里云目前正在做的一些活动，错过这波，后续可能多花很多钱：
+欢迎关注我的[简书](https://www.jianshu.com/u/e557a6d13070),内容主要偏向技术和发展的一些感悟。
 
-1. [全民云计算：ECS云服务器2折起,1核1G仅需293元/年](https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=hf47liqn)
-2. [高性能企业级性能云服务器限时2折起,2核4G仅需720元/年](https://promotion.aliyun.com/ntms/act/enterprise-discount.html?userCode=hf47liqn)
-3. [拉1人拼团，立享云服务器￥234/年](https://promotion.aliyun.com/ntms/act/vmpt/aliyun-group/home.html?spm=5176.8849694.home.4.27a24b70kENhtV&userCode=hf47liqn)
-4. [最高￥1888云产品通用代金券](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=hf47liqn) 
-5. [阿里云建站服务](https://promotion.aliyun.com/ntms/act/jianzhanquan.html?userCode=hf47liqn)（企业官网、电商网站，多种可供选择模板，代金券免费领取）
+[LinkedIn](https://www.linkedin.com/in/zhipeng-yu-181bba145/),欢迎connect~
+
+另外该文档格式参考：[JavaGuide](https://github.com/Snailclimb/JavaGuide/blob/master/README.md)，表情素材来自：[EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)。
 
 
 **你若盛开，清风自来。 欢迎关注我的微信公众号：“Java面试通关手册”，一个有温度的微信公众号。公众号有大量资料，回复关键字“1”你可能看到想要的东西哦！：**
