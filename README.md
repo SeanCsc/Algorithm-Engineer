@@ -25,7 +25,7 @@
     - [共享单车需求量预测](https://github.com/SeanCsc/shared-bike-demand-prediction/blob/master/README.md) 
     - [Kaggle-house prediction](https://github.com/SeanCsc/House-prediction/blob/master/README.md)    
     - [Datahack@Yale2018](https://github.com/SeanCsc/DataHack-Yale-2018)   
-   
+    
 -  ### 计算机视觉
    - [传统计算机视觉方法实现](https://github.com/SeanCsc/Computer-vision)
    - [CNN实现](https://github.com/SeanCsc/Computer-vision/tree/master/CNN%20implementation)
@@ -38,7 +38,12 @@
    - [Notes](https://www.jianshu.com/writer#/notebooks/30578473/notes/35579994)
    - [Codes]()   
    - [Near Duplicate Documents]()
-
+   
+- ### Deep Learning
+   - [DNN]()
+   - [CNN]() 
+   - [RNN & LSTM]() 
+   
 - ### Data Mining
    - [Frequent Itemsets]()
 
