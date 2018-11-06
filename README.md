@@ -9,6 +9,8 @@
 | [算法](#coffee-Java)  |  [开发](#computer-开发技能)|[业务感悟](#musical_note-业务感悟) | [随笔](#iphone-操作系统)| [面试题目](#punch-面试必备)| [其他](#art-其他)| [说明](#envelope-该开源文档一些说明)|
 
 ## :coffee: 算法
+作为算法工程师，起码需要了解基础的算法思想，在此基础上去跟踪前沿，实现算法落地到业务上。
+
 -   ### 基础数据结构和算法
     - [数据结构和算法思想题目](https://github.com/SeanCsc/Data-Structure-and-Algorithm/blob/master/README.md)
     
@@ -34,7 +36,7 @@
 - ### Data Mining
    - [Frequent Itemsets]()
 
-## :open_file_folder: 数据结构与算法
+## :computer: 开发
    
 -  ### 数据结构
    - [数据结构知识学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/数据结构与算法/数据结构.md)
