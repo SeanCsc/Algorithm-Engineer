@@ -110,7 +110,7 @@
 
 另外该文档格式参考：[JavaGuide](https://github.com/Snailclimb/JavaGuide/blob/master/README.md)，表情素材来自：[EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)。
 
-另外，您也可以关注我的微信公众号：“LifeCoder”，会不定期更新留学、游记、烹饪和健身的相关文章，后续也会更新一些非常棒的算法工程师学习材料。
+另外，您也可以关注我的微信公众号：“LifeCoder”，会不定期更新留学、游记、烹饪和健身的相关文章，后续也会更新一些好的算法工程师的学习材料。
 
 ![](https://github.com/SeanCsc/Algorithm-Engineer/blob/master/pictures/qrcode_for_gh_6e5f88ff8319_258.jpg)
 
