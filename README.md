@@ -90,7 +90,8 @@
 - ### 个人书单推荐
     - [个人阅读书籍清单](https://github.com/Snailclimb/Java-Guide/blob/master/其他/个人阅读书籍清单.md)  
 
-***
+- ### 遇到的问题记录
+    - [个人阅读书籍清单](https://github.com/Snailclimb/Java-Guide/blob/master/其他/个人阅读书籍清单.md)  
 
 > # :envelope: 该开源文档一些说明
 
