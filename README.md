@@ -35,8 +35,7 @@
 
 
 -  ### NLP (Following CS224n)
-   - [Notes](https://www.jianshu.com/writer#/notebooks/30578473/notes/35579994)
-   - [Codes]()   
+   - [Follows](https://github.com/SeanCsc/nlp_course)
    - [Near Duplicate Documents]()
    
 - ### Deep Learning
