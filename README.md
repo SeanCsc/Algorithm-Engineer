@@ -61,7 +61,7 @@
    - [SQL]()
    - [Hadoop]()
    - [Spark]()
-   - [Hive]()
+   - [Hive的优化](https://www.jianshu.com/p/7198782c291b)
    
 -  ### 语言规范和优化
    - [Python]()
