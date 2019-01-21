@@ -10,3 +10,9 @@
 先通过git remote remove origin 解除关联，然后再继续关联。
 
 2. 
+
+## LINUX
+
+1.找不到指令怎么办
+
+brew install + （指令）
