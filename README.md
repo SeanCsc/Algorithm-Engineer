@@ -72,6 +72,7 @@
 -  ### 代码管理
    - [Github](https://www.jianshu.com/p/efd5b0c24337)
    - [Maven]()
+   - [Virtualenv]()   
    
 -  ### 网络通信（to learn)
    - [网络通信]()
