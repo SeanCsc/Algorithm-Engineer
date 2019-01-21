@@ -4,3 +4,9 @@
 --- 
 
 ##GIT 
+
+1. 在通过git remote add origin 将本地文件和远端连接后，如果本地文件夹被删除，如何再重新连接到别的文件夹
+
+先通过git remote remove origin 解除关联，然后再继续关联。
+
+2. 
